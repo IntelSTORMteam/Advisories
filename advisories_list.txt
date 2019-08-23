@@ -1,0 +1,53 @@
+Intel Microprocessor Memory Mapping Advisory (CVE-2019-0162) 
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00238.html)
+
+Intel Microarchitectural Data Sampling Uncacheable Memory (MDSUM) (CVE-2019-11091) 
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00233.html)
+
+Intel Microarchitectural Fill Buffer Data Sampling (MFBDS) (CVE-2018-12130) 
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00233.html)
+
+Intel Microarchitectural Load Port Data Sampling (MLPDS) (CVE-2018-12127) 
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00233.html)
+
+Intel Microarchitectural Store Buffer Data Sampling (MSBDS) (CVE-2018-12126) 
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00233.html)
+
+Intel Graphics Driver Insufficient Input Validation (CVE-2019-0115) 
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00218.html)
+
+Intel Graphics Driver Memory Corruption (CVE-2018-12209, CVE-2018-12210, CVE-2018-12211, CVE-2018-12212, CVE-2018-12213, CVE-2018-12214, CVE-2018-12215, CVE-2018-12216, CVE-2018-12217) 
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00189.html)
+
+Windows Kernel Information Disclosure Vulnerability (CVE-2018-8127)
+(https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8127)
+
+Intel CPU Speculative Side-channel L1 Terminal Fault: OS/SMM (CVE-2018-3620) 
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00161.html)
+
+Intel CPU Speculative Side-channel L1 Terminal Fault: VMM (CVE-2018-3646) 
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00161.html)
+
+Intel CPU Speculative Side-channel L1 Terminal Fault: SGX (CVE-2018-3615)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00161.html)
+
+Intel Bounds Check Bypass Store (CVE-2018-3693)
+(https://01.org/security/advisories/intel-oss-10002)
+
+Intel Lazy FP State Restore (CVE-2018-3665)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00145.html)
+
+Intel® SGX SDK Edger8r and Intel® Software Guard Extensions Platform Software Component – Side Channel (CVE-2018-3626) 
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00117.html)
+
+Intel® SGX SDK Edger8r and Intel® Software Guard Extensions Platform Software Component – EoP (CVE-2018-5736) 
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00117.html)
+
+Speculative Store Bypass (SSB) (CVE-2018-3639)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00115.html)
+
+Rogue System Register Read (RSRE) CVE-2018-3640)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00115.html)
+
+Speculative Execution and Indirect Branch Prediction Side Channel (CVE-2017-5753, CVE-2017-5754, CVE-2017-5715) 
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00088.html)
