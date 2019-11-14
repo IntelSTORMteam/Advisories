@@ -1,3 +1,6 @@
+Multiple Issues in Intel Graphics Software Stack (CVE-2019-0155, CVE-2019-14590, CVE-2019-14591, CVE-2019-11089, CVE-2019-11113) 
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00242.html)
+
 Intel Microprocessor Memory Mapping Advisory (CVE-2019-0162) 
 (https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00238.html)
 
