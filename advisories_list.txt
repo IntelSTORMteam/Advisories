@@ -1,3 +1,33 @@
+Intel MMIO Undefined Access issue (CVE-2022-21180)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00645.html)
+
+Intel MMIO Stale Data issue (CVE-2022-21123, CVE-2022-21125, CVE-2022-21127, CVE-2022-21166)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00615.html)
+
+Intel processor optimization of security critical code (CVE-2022-21151)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00617.html)
+
+Intel RealSense ID Solution information disclosure (CVE-2021-33130)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00595.html)
+
+Multiple Issues in Intel Graphics Drivers (CVE-2020-12362, CVE-2020-12363, CVE-2020-12364, CVE-2020-0521, CVE-2020-12385)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00438.html)
+
+Multiple Issues in Intel BMC's firmware (CVE-2020-12374, CVE-2020-12377, CVE-2020-12380, CVE-2020-12375, CVE-2020-12376)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00434.html)
+
+Intel Unite Client for Windows information disclosure (CVE-2020-0575)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00350.html)
+
+Special Register Buffer Data Sampling (CVE-2020-0543)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00320.html)
+
+Insufficient access control in protected memory subsystem for SMM (CVE-2019-0185)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00254.html)
+
+Insufficient memory protection in SMM and TXT (CVE-2019-0151, CVE-2019-0152, CVE-2019-0151)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00240.html)
+
 Multiple Issues in Intel Graphics Software Stack (CVE-2019-0155, CVE-2019-14590, CVE-2019-14591, CVE-2019-11089, CVE-2019-11113) 
 (https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00242.html)
 
@@ -12,6 +42,13 @@ Intel Microarchitectural Fill Buffer Data Sampling (MFBDS) (CVE-2018-12130)
 
 Intel Microarchitectural Load Port Data Sampling (MLPDS) (CVE-2018-12127) 
 (https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00233.html)
+
+Intel Software Guard Extensions (SGX) enabled processors with Intel Processor Graphics 
+information disclosure
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00219.html)
+
+Intel Trusted Execution Technology (TXT) information disclosure
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00164.html)
 
 Intel Microarchitectural Store Buffer Data Sampling (MSBDS) (CVE-2018-12126) 
 (https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00233.html)
