@@ -1,3 +1,6 @@
+Redundant Prefix Issue alias Reptar (CVE-2023-23583)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00950.html)
+
 Intel MMIO Undefined Access issue (CVE-2022-21180)
 (https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00645.html)
 
