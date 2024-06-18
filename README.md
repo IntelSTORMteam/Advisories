@@ -1,3 +1,6 @@
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9133/badge)](https://www.bestpractices.dev/projects/9133)
+
+
 # Advisories
 
 Security Vulnerabilities Publicly Credited to the Team
