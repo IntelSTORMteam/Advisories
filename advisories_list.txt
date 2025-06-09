@@ -1,3 +1,15 @@
+Exposure of sensitive information caused by shared microarchitectural predictor state that influences transient execution for some Intel Atom(R)/ Intel Core(R) processors may allow an authenticated user to potentially enable information disclosure via local access (CVE-2024-43420 and CVE-2025-20623)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01247.html)
+
+Improper Finite State Machines (FSMs) in Hardware Logic for some Intel® Processors may allow privileged user to potentially enable denial of service via local access (CVE-2024-31068)
+(https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-01166.html)
+
+Exposure of Sensitive Information in Shared Microarchitectural Structures during Transient Execution for some Intel® Processors may allow an authenticated user to potentially enable information disclosure via local access (CVE-2024-28956)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01153.html)
+
+Insufficient granularity of access control in UEFI firmware in some Intel(R) processors may allow a authenticated user to potentially enable denial of service via local access (CVE-2024-39279)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01139.html)
+
 Redundant Prefix Issue alias Reptar (CVE-2023-23583)
 (https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00950.html)
 
