@@ -1,5 +1,11 @@
+Improper input validation and Out-of-bounds read for some Intel® Graphics Drivers (CVE-2025-20031, CVE-2025-20101) 
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01259.html)
+
 Exposure of sensitive information caused by shared microarchitectural predictor state that influences transient execution for some Intel Atom(R)/ Intel Core(R) processors may allow an authenticated user to potentially enable information disclosure via local access (CVE-2024-43420 and CVE-2025-20623)
 (https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01247.html)
+
+Potential security vulnerabilities in some Intel® Graphics software may allow escalation of privilege or denial of service (CVE-2024-42410)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01235.html)
 
 Improper Finite State Machines (FSMs) in Hardware Logic for some Intel® Processors may allow privileged user to potentially enable denial of service via local access (CVE-2024-31068)
 (https://www.intel.com/content/www/us/en/security-center/advisory/INTEL-SA-01166.html)
@@ -10,8 +16,20 @@ Exposure of Sensitive Information in Shared Microarchitectural Structures during
 Insufficient granularity of access control in UEFI firmware in some Intel(R) processors may allow a authenticated user to potentially enable denial of service via local access (CVE-2024-39279)
 (https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01139.html)
 
+Intel® Graphics Software (CVE-2024-34023)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01132.html)
+
+OpenBMC Firmware (CVE-2023-49144)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-01078.html)
+
+Intel® Server Board BMC Firmware (CVE-2023-31276)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00990.html)
+
 Redundant Prefix Issue alias Reptar (CVE-2023-23583)
 (https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00950.html)
+
+Intel® Ethernet Controllers and Adapters (CVE-2024-23981, CVE-2024-21810, CVE-2024-21807, CVE-2024-23497, and CVE-2024-24986)
+(https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00918.html)
 
 Intel MMIO Undefined Access issue (CVE-2022-21180)
 (https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00645.html)
